@@ -68,8 +68,8 @@
     (pad_drill 1.016)
     (pad_to_mask_clearance 0)
     (pad_to_paste_clearance -0.07)
-    (aux_axis_origin 55 55)
-    (grid_origin 55 55)
+    (aux_axis_origin 55 135)
+    (grid_origin 55 135)
     (visible_elements 7FFFFF7F)
     (pcbplotparams
       (layerselection 0x010f0_80000001)
@@ -3178,7 +3178,7 @@
   )
 
   (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 581A75BF) (tstamp 581A759C)
-    (at 55 55)
+    (at 55 135)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
     (attr virtual)
@@ -3194,7 +3194,7 @@
   )
 
   (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 581A761B) (tstamp 581A75F2)
-    (at 55 135)
+    (at 55 55)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
     (attr virtual)
@@ -3210,7 +3210,7 @@
   )
 
   (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 581A764F) (tstamp 581A7636)
-    (at 245 55)
+    (at 245 135)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
     (attr virtual)
