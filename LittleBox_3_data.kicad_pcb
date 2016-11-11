@@ -5,7 +5,7 @@
     (no_connects 5)
     (area 37.386904 49.949999 262.613096 140.050001)
     (thickness 1.6)
-    (drawings 31)
+    (drawings 32)
     (tracks 2315)
     (zones 0)
     (modules 139)
@@ -4617,6 +4617,9 @@
       (solder_mask_margin 0.77) (clearance 0.77))
   )
 
+  (gr_text "Caudos inverter control board V 1  2016  Jose Luu" (at 111.5 135) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_circle (center 150 55) (end 150 56.5) (layer Edge.Cuts) (width 0.1))
   (gr_circle (center 150 135) (end 150 136.5) (layer Edge.Cuts) (width 0.1))
   (gr_circle (center 225 55) (end 225 56.5) (layer Edge.Cuts) (width 0.1))
