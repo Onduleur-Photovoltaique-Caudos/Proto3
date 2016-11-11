@@ -1,4 +1,4 @@
-update=01/9/2016 08:29:55
+update=03/11/2016 18:59:24
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,7 +59,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=D:/dev_hardware/littlebox/kicad;D:/dev_hardware/kicad_lib
+LibDir=../../kicad
 [eeschema/libraries]
 LibName1=power
 LibName2=device
