@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source D:/dev_hardware/littlebox/Proto_IRF460/LittleBox_3/LittleBox_3.sch)
-    (date "11/9/2016 00:23:00")
+    (date "11/9/2016 20:35:13")
     (tool "Eeschema 4.0.1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -940,7 +940,7 @@
       (tstamp 55C045A5))
     (comp (ref C48)
       (value "2.2uF 630V")
-      (footprint inverter:6050_MLCC)
+      (footprint inverter:MLCC_SuperCap_5750_BackCu)
       (datasheet http://www.mouser.com/ds/2/400/X2_B32921_928-587949.pdf)
       (fields
         (field (name Type) Film)
@@ -1380,7 +1380,7 @@
       (tstamp 57D28E81))
     (comp (ref C53)
       (value "1uF 630V")
-      (footprint inverter:6050_MLCC)
+      (footprint inverter:MLCC_SuperCap_5750_BackCu)
       (datasheet http://www.mouser.com/ds/2/400/X2_B32921_928-587949.pdf)
       (fields
         (field (name Type) Film)
@@ -1392,7 +1392,7 @@
       (tstamp 57D5E7B0))
     (comp (ref C52)
       (value "1uF 630V")
-      (footprint inverter:6050_MLCC)
+      (footprint inverter:MLCC_SuperCap_5750_BackCu)
       (datasheet http://www.mouser.com/ds/2/400/X2_B32921_928-587949.pdf)
       (fields
         (field (name Type) Film)
@@ -1404,7 +1404,7 @@
       (tstamp 57D5EA74))
     (comp (ref C51)
       (value "1uF 630V")
-      (footprint inverter:6050_MLCC)
+      (footprint inverter:MLCC_SuperCap_5750_BackCu)
       (datasheet http://www.mouser.com/ds/2/400/X2_B32921_928-587949.pdf)
       (fields
         (field (name Type) Film)
@@ -1849,12 +1849,12 @@
   (libraries
     (library (logical device)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
+    (library (logical conn)
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
     (library (logical inverter_project)
       (uri D:\dev_hardware\littlebox\kicad\inverter_project.lib))
     (library (logical LittleBox_3-cache)
-      (uri D:\dev_hardware\littlebox\Proto_IRF460\LittleBox_3\LittleBox_3-cache.lib))
-    (library (logical conn)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib")))
+      (uri D:\dev_hardware\littlebox\Proto_IRF460\LittleBox_3\LittleBox_3-cache.lib)))
   (nets
     (net (code 1) (name /M_IOUT1)
       (node (ref R49) (pin 1))
