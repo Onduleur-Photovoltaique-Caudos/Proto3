@@ -35,9 +35,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
-Title ""
-Date "19 jul 2015"
-Rev ""
+Title "Inverter"
+Date "2016-11-12"
+Rev "1.1"
 Comp ""
 Comment1 ""
 Comment2 ""
