@@ -1,0 +1,73 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Manufacturer PN,Mouser SKU,Type,Manufacturer,Elecrow ID,Elecrow Datasheet,Supplier,Manufaturer PN,Price,Supplier SKU
+1,Unpolarized capacitor,C,C7 C8,0.5u 250V,C_Rect_L18_W8_P15,2,http://datasheet.octopart.com/B32652A3474K-EPCOS-datasheet-37496994.pdf,B32652A3474K,871-B32652A3474K,FILM 250V,EPCOS/TDK,,,,,,
+2,Unpolarized capacitor,C,C1 C2 C3 C4 C4M1 C5 C6 C9 C12 C15 C17 C19 C20 C34 C36 C37 C38 C39 C43 C44 C45 C47,100n,C_0603,22,http://psearch.en.murata.com/capacitor/product/GCM188R71H104KA57%23.html,GCM188R71H104KA57D C1608X7R1H104K080AA,81-GCM188R71H104KA7D 810-C1608X7R1H104K,MLCC X7R,Murata EPCOS/TDK,15331,,,,,
+3,Unpolarized capacitor,C,C5M1,10n,C_0603,1,http://psearch.en.murata.com/capacitor/product/GRM188R71H103KA01%23.html,GRM188R71H103KA01D,81-GRM39X103K50D,,Murata,58143,,,,,
+4,Unpolarized capacitor,C,C23 C25,1n 1000V,C_Rect_L12_W5_P6,2,http://www.cde.com/resources/catalogs/CD-CDV16.pdf,CDV16FF102JO3F,598-CDV16FF331JO3F,MICA Snubber 1000V,CornellDubilier,,,,,,
+5,Unpolarized capacitor,C,C6M1 C16 C28 C40 C41 C42 C49,1u,C_0603,7,,GCM188R71E105KA64D,81-GCM188R71E105KA4D,,Murata,16531,,,,,
+6,Unpolarized capacitor,C,C51 C52 C53,1uF 630V,MLCC_SuperCap_5750_BackCu,3,http://www.mouser.com/ds/2/400/X2_B32921_928-587949.pdf,CGA8N4X7T2W474M230KA,810-CKG57NX7T2J105JH,Film,EPCOS/TDK,,,,,,
+7,Unpolarized capacitor,C,C24 C46,2.2uF 630V,C_Rect_W15_L32_P27.5,2,http://www.mouser.com/ds/2/400/X2_B32921_928-587949.pdf,B32923C3225K,871-B32923C3225K,Film,EPCOS/TDK,,,,,,
+8,Unpolarized capacitor,C,C48,2.2uF 630V,MLCC_SuperCap_5750_BackCu,1,http://www.mouser.com/ds/2/400/X2_B32921_928-587949.pdf,CKG57NX7T2J105M500JH,810-CKG57NX7T2J105JH,Film,EPCOS/TDK,,,,,,
+9,Unpolarized capacitor,C,C10 C11,4.7u,C_0805,2,http://psearch.en.murata.com/capacitor/product/GRM188C81E475KE11%23.html,GRM188C81E475KE11D,81-GRM188C81E475KE1D,MLCC X6S,Murata,20375,,,,,
+10,Unpolarized capacitor,C,C13 C14 C18 C21 C22 C26 C27 C29 C30 C31 C32 C33,4.7u,C_0603,12,http://datasheet.octopart.com/GRM188C81E475KE11D-Murata-datasheet-14397282.pdf,GRM188C81E475KE11D,81-GRM188C81E475KE1D,MLCC X6S,Murata,20375,,,,,
+11,Unpolarized capacitor,C,C35 C50,470pF,C_0603,2,http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-sg,GRM1885C1H471JA01D,81-GRM39C471J50,Ceramic NPO,Murata,1972,http://www.fenghua.com/pdf/mlcc/MLCC-X7R.pdf,,,,
+12,,DIODESCH,D1 D2 D3 D4,C3D06060A,Diode_TO-220_Vertical,4,,,,,,,,,,,
+13,,LED,D5,LED,LED-0603,1,,,,,,,,,,,
+14,,DIODESCH,D6,SD1206S040S0R5,SOD-323,1,http://www.mouser.com/ds/2/40/schottky-221155.pdf,,,,,,,,,,
+15,,INDUCTOR,L7,1.2m,TOROID_15_44_22,1,,,,,,,,,,,
+16,,INDUCTOR,L4 L6,1uH,SER20xx-xxxL,2,http://www.mouser.com/ds/2/597/ser2000-270634.pdf,,,,,,,,,,
+17,,INDUCTOR,L8 L10,2u,BEAD-5,2,,,,,,,,,,,
+18,,INDUCTOR,L9,330uH,2100HT-471-V-RC,1,http://www.mouser.com/ds/2/54/2100ht_series-8038.pdf,,,,,,,,,,
+19,,INDUCTOR,L1 L2,470uH,2100HT-471-V-RC,2,http://www.mouser.com/ds/2/54/2100ht_series-8038.pdf,,,,,,,,,,
+20,,INDUCTOR_SMALL,L3 L5,Bead,BEAD-5,2,,,,,,,,,,,
+21,Connector 01x01,CONN_01X01,P1 P2 P5 P6 P7 P8 P11 P12 P14 P15,CONN_01X01,PINTST,10,,,,,,,,,,,
+22,Connector 01x01,CONN_01X01,P3 P4 P18 P20 P21,CONN_01X01,Pin_Header_Straight_1x01_round,5,,,,,,,,,,,
+23,Connector 01x02,CONN_01X02,P22,CONN_01X02,Molex_02204_1021_fan_2,1,,,,,,,,,,,
+24,Connector 01x02,CONN_01X02,P23 P24 P25 P26 P27 P29 P31,CONN_01X02,Pin_Header_Straight_1x02_round,7,,,,,,,,,,,
+25,Connector 01x03,CONN_01X03,P9 P10 P13 P16 P17 P19,CONN_01X03,Pin_Header_Straight_1x03,6,,,,,,,,,,,
+26,Connector 01x03,CONN_01X03,P28 P30 P32,CONN_01X03,Pin_Header_Straight_1x03_round,3,,,,,,,,,,,
+27,,CONN_1,P5IN1 P5_GND1 P12IN1 P12_GND1 Psense1 Psense2,CONN_1,FASTON_110-1,6,,,,,,,,,,,
+28,,CONN_1,P400IN+1 P400IN-1 POUT1 POUT2,CONN_1,FASTON250_Slanted30-1,4,,,,,,,,,,,
+29,,CONN_2,P_led1,CONN_2,Pin_Header_Straight_1x02,1,,,,,,,,,,,
+30,Connector 01x05,CONN_01X05,PI2C_2,CONN_01X05,Header_1x5_metric,1,,,,,,,,,,,
+31,Connector 01x05,CONN_01X05,PI2C_21,CONN_01X05,pin_1x5_metric,1,,,,,,,,,,,
+32,Connector 01x05,CONN_01X05,PI2C_22,CONN_01X05,Pin_Header_Straight_1x05,1,,,,,,,,,,,
+33,,CONN_4,Pi2c_1,CONN_4,Pin_Header_Straight_1x04,1,,,,,,,,,,,
+34,,CONN_6,Pprog1 Pser1,CONN_6,Pin_Header_Straight_1x06,2,,,,,,,,,,,
+35,,N-MOSFET,Q1 Q2 Q3 Q4 Q5 Q6,C3M0065090D,TO-247_Vertical_Neutral123,6,,,,,,,,,,,
+36,,N-MOSFET,Q11,CJ2302,SOT-23,1,http://datasheet.octopart.com/CJ2302-JCET-datasheet-30458154.pdf,,,,JCST,,,Seeed,CJ2302,1/10 USD,305030015
+37,,N-MOSFET,Q7 Q8 Q9 Q10,IPW6045CP,TO-247_Vertical_Neutral123,4,,,,,,,,,,,
+38,Resistor,R,R1 R2 R3 R4 R51 R52,0,R_0603,6,http://www.royalohm.com/pdf/product2017/GeneralPurpose.pdf,,,,,21903,,,,,
+39,Resistor,R,R10 R12 R17 R20 R22 R24 R26 R27 R29 R33,1,R_0603,10,,,,,,23663,,,,,
+40,Resistor,R,R5 R6 R7,10k,R_0603,3,http://www.royalohm.com/pdf/product2017/GeneralPurpose.pdf,,,,,26547,,,,,
+41,Resistor,R,R9 R11 R18 R19 R21 R23 R25 R28 R30 R34,1k,R_0603,10,,,,,,21904,,,,,
+42,Resistor,R_Small,R39 R42 R43 R45 R48 R49,2.2K,R_0603,6,http://www.royalohm.com/pdf/product2017/GeneralPurpose.pdf,,,,,4597,,,,,
+43,Resistor,R,R14 R32 R38 R53 R54 R55 R56 R57,2.2M,R_1206_HandSoldering,8,,,,,,,,,,,
+44,Resistor,R,R13 R15 R31 R36 R37,22K,R_0603,5,,,,,,32812,,,,,
+45,Resistor,R,R8,510,R_0603,1,http://www.royalohm.com/pdf/product2017/GeneralPurpose.pdf,,,,,23920,,,,,
+46,Resistor,R_Small,R40 R41 R44 R46 R47 R50,6.8K,R_0603,6,http://www.royalohm.com/pdf/product2017/GeneralPurpose.pdf,,,,,23939,,,,,
+47,Button,SW_PUSH,SW1,SW_PUSH,SW_SPST_PTS645,1,http://www.mouser.com/ds/2/418/NG_CD_2-1437565-7_V-663783.pdf,,,,,,,,,,
+48,,ACS712,U5 U6 U18 U19 U21 U23,ACS712,ACS712,6,http://www.allegromicro.com/~/Media/Files/Datasheets/ACS712-Datasheet.ashx,,,,,,,,,,
+49,Isolated mosfet driver 4A,ADUM3223,U1 U4 U8 U10 U16,ADUM3223,SOIC-16_3.9x9.9mm_Pitch1.27mm,5,,,,,,,,,,,
+50,Linear Regulator +5V,AZ1117-3.3,U14,AZ1117-3.3,DPAK-3,1,http://www.diodes.com/_files/datasheets/AZ1117.pdf,,,,,,,,,,
+51,Linear Regulator +5V,AZ1117-3.3,U12,AZ1117-5,SOT-223,1,http://www.diodes.com/_files/datasheets/AZ1117.pdf,,,,,,,,,,
+52,,B1212LS-1W,U2 U7,B1212LS-1W,B1212LS-1W,2,,,,,,,,,,,
+53,,DY12D1212-2W,U3 U9,DY12D1212-2W,DY12D1212-2W,2,,,,,,,,,,,
+54,,IR25750,U11 U17 U20,IR25750,SOT-23-5,3,,,,,,,,,,,
+55,,MIC5205,U13,MIC5205-3.3,SOT-23-5,1,,,,,,,,,,,
+56,,MIC5205,U15,MIC5205-5.0,SOT-23-5,1,,,,,,,,,,,
+57,STM32F334R8T6 Microcontroller,STM32F334R8T6,U22,STM32F334R8T6,LQFP-64_10x10mm_Pitch0.5mm,1,,,,,,,,,,,
+
+
+
+
+
+Component Groups:,57
+Component Count:,211
+Fitted Components:,211
+Number of PCBs:,1
+Total components:,211
+Schematic Version:,1.1
+Schematic Date:,2016-11-12
+BoM Date:,12/11/2016 19:11:39
+Schematic Source:,D:\dev_onduleur\littlebox\Proto_IRF460\LittleBox_3\LittleBox_3.sch
+KiCad Version:,Eeschema 4.0.1-stable
